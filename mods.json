@@ -61,14 +61,14 @@
 		},
 		{
 			"name": "GorillaLibrary",
-			"author": "GorillaTagModdingHub",
+			"author": "GTModdingHub",
 			"category": "Libraries",
 			"download": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/latest/download/GorillaLibrary.dll",
 			"github": "https://github.com/GorillaTagModdingHub/GorillaLibrary"
 		},
 		{
 			"name": "GorillaLibrary.GameModes",
-			"author": "GorillaTagModdingHub",
+			"author": "GTModdingHub",
 			"category": "Libraries",
 			"download": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/latest/download/GorillaLibrary.GameModes.dll",
 			"github": "https://github.com/GorillaTagModdingHub/GorillaLibrary"
