@@ -56,22 +56,29 @@
 			"name": "BingusNametags++",
 			"author": "bingus",
 			"category": "Gameplay",
-			"download": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/download/1.4.1/BingusNametagsPlusPlus.MelonLoader.zip",
+			"download": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.MelonLoader.zip",
 			"github": "https://github.com/sirkingbinx/BingusNametagsPlusPlus"
 		},
 		{
 			"name": "GorillaLibrary",
 			"author": "GorillaTagModdingHub",
 			"category": "Libraries",
-			"download": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/download/1.0.0/GorillaLibrary.dll",
+			"download": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/latest/download/GorillaLibrary.dll",
 			"github": "https://github.com/GorillaTagModdingHub/GorillaLibrary"
 		},
 		{
 			"name": "GorillaLibrary.GameModes",
 			"author": "GorillaTagModdingHub",
 			"category": "Libraries",
-			"download": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/download/1.0.0/GorillaLibrary.GameModes.dll",
+			"download": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/latest/download/GorillaLibrary.GameModes.dll",
 			"github": "https://github.com/GorillaTagModdingHub/GorillaLibrary"
+		},
+		{
+			"name": "MelInex",
+			"author": "Loafiat",
+			"category": "Core",
+			"download": "https://github.com/Loafiat/MelInEx/releases/download/1.0.0/MelInEx.dll",
+			"github": "https://github.com/Loafiat/MelInEx"
 		}
 	],
 
