@@ -1,4 +1,4 @@
-## New version of MMM built using Tauri
+# Yet another MMM... this time using Tauri
 
 Features:
 
