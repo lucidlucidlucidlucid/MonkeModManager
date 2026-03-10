@@ -2,11 +2,12 @@
 
 Features:
 
-- Quickly install bepinex
+- Quickly install bepinex and Melon Loader
 - Install many community mods
 - Uninstall all with one button
 - Cleaner UI
-- Bepinex and Melon Loader options
+
+DM me on discord @mightbelucid for feedback or mod removal/add requests
 
 Only for windows as of now, I do not have experience with Linux
 
