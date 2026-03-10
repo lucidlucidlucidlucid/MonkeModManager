@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: main;
+    src: url(./assets/utopium.otf);
+}
+
+:root {
+    --bg: #1A1A1A;
+    --card: #262626;
+    --input: #4D4D4D;
+    --input-hover: #666666;
+    --border: #333333;
+    --text: #FFFFFF;
+    --primary: #FF6F61;
+    --primary-hover: #FF4C3B;
+
+}
+
+
+
+body {
+    font-family: main;
+    color: var(--text);
+}
+
+html {
+    overscroll-behavior: none;
+}
+
+#root {
+}
+
+#mod-list {
+    scrollbar-width: none;
+}
+
+#mod-list::-webkit-scrollbar {
+    display: none; 
+}
+
+[data-tauri-drag-region] {
+  -webkit-app-region: drag;
+}

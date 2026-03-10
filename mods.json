@@ -1,0 +1,100 @@
+{
+	"mods": [
+        {
+            "name": "Utilla",
+            "author": "developer9998",
+            "category": "Core",
+            "download": "https://github.com/developer9998/Utilla-BepInEx/releases/latest/download/Utilla.dll",
+            "github": "https://github.com/developer9998/Utilla-BepInEx"
+        },
+		{
+			"name": "BingusNametags++",
+			"author": "bingus",
+			"category": "Gameplay",
+			"download": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.BepInEx.zip",
+			"github": "https://github.com/sirkingbinx/BingusNametagsPlusPlus"
+		},
+		{
+			"name": "HoneyLib",
+			"author": "Buzz",
+			"category": "Libraries",
+			"download": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll",
+			"github": "https://github.com/BzzzThe18th/HoneyLib"
+		},
+		{
+			"name": "NoForestBarrier",
+			"author": "Silvaz",
+			"category": "Tweaks",
+			"download": "https://github.com/SilvazWasTaken/NoForestBarrier/releases/latest/download/NoForestBarrier.dll",
+			"github": "https://github.com/SilvazWasTaken/NoForestBarrier"
+		},
+		{
+			"name": "MonkeCosmetics",
+			"author": "Ngbatz",
+			"category": "Cosmetic",
+			"download": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll",
+			"github": "https://github.com/NgbatzYT/MonkeCosmetics"
+		},
+		{
+			"name": "MonkeLib",
+			"author": "pl2w",
+			"category": "Libraries",
+			"download": "https://github.com/pl2w/MonkeLib/releases/latest/download/MonkeLib.dll",
+			"github": "https://github.com/pl2w/MonkeLib"
+		},
+		{
+			"name": "Consoleless",
+			"author": "BrokenSt0ne",
+			"category": "Core",
+			"download": "https://github.com/BrokenSt0ne/Consoleless/releases/latest/download/Consoleless.dll",
+			"github": "https://github.com/BrokenSt0ne/Consoleless"
+		}
+	],
+
+	"melonloader_mods": [
+		{
+			"name": "BingusNametags++",
+			"author": "bingus",
+			"category": "Gameplay",
+			"download": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/download/1.4.1/BingusNametagsPlusPlus.MelonLoader.zip",
+			"github": "https://github.com/sirkingbinx/BingusNametagsPlusPlus"
+		},
+		{
+			"name": "GorillaLibrary",
+			"author": "GorillaTagModdingHub",
+			"category": "Libraries",
+			"download": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/download/1.0.0/GorillaLibrary.dll",
+			"github": "https://github.com/GorillaTagModdingHub/GorillaLibrary"
+		},
+		{
+			"name": "GorillaLibrary.GameModes",
+			"author": "GorillaTagModdingHub",
+			"category": "Libraries",
+			"download": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/download/1.0.0/GorillaLibrary.GameModes.dll",
+			"github": "https://github.com/GorillaTagModdingHub/GorillaLibrary"
+		}
+	],
+
+	"categories": [
+		{
+			"name" : "Core",
+			"rank" : 0
+		},
+		{
+			"name" : "Cosmetic",
+			"rank" : 1
+		},
+		{
+			"name" : "Gameplay",
+			"rank" : 2
+		},
+		{
+			"name" : "Tweaks",
+			"rank" : 3
+		},
+		{
+			"name" : "Libraries",
+			"rank" : 4
+		}
+	]
+}
