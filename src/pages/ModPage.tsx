@@ -9,7 +9,7 @@ import ModItem, { ModStatus } from "../components/ModItem";
 const MODS_URL = "https://raw.githubusercontent.com/lucidlucidlucidlucid/MonkeModManager/main/mods.json";
 const VERSION_URL = "https://raw.githubusercontent.com/lucidlucidlucidlucid/MonkeModManager/main/version.txt";
 const RELEASES_URL = "https://github.com/lucidlucidlucidlucid/MonkeModManager/releases";
-const LOCAL_VERSION = "0.1.0";
+const LOCAL_VERSION = "1.0.0";
 
 type Loader = 'bepinex' | 'melonloader';
 
