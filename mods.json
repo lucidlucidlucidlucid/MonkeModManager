@@ -72,13 +72,6 @@
 			"category": "Libraries",
 			"download": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/latest/download/GorillaLibrary.GameModes.dll",
 			"github": "https://github.com/GorillaTagModdingHub/GorillaLibrary"
-		},
-		{
-			"name": "MelInex",
-			"author": "Loafiat",
-			"category": "Core",
-			"download": "https://github.com/Loafiat/MelInEx/releases/download/1.0.0/MelInEx.dll",
-			"github": "https://github.com/Loafiat/MelInEx"
 		}
 	],
 
